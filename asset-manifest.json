@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Movies_React/static/css/main.3b8c4355.css",
+    "main.js": "/Movies_React/static/js/main.1a33cb04.js",
+    "static/js/787.633816a4.chunk.js": "/Movies_React/static/js/787.633816a4.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Movies_React/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/Movies_React/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/Movies_React/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/Movies_React/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/Movies_React/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/fa-regular-400.woff2": "/Movies_React/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/220px-ErenYeager.jpg": "/Movies_React/static/media/220px-ErenYeager.9b3049a83166a0f92135.jpg",
+    "static/media/fa-v4compatibility.ttf": "/Movies_React/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Movies_React/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/Movies_React/index.html",
+    "main.3b8c4355.css.map": "/Movies_React/static/css/main.3b8c4355.css.map",
+    "main.1a33cb04.js.map": "/Movies_React/static/js/main.1a33cb04.js.map",
+    "787.633816a4.chunk.js.map": "/Movies_React/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b8c4355.css",
+    "static/js/main.1a33cb04.js"
+  ]
+}
