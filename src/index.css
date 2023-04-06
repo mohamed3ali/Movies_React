@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&display=swap');
+:root{
+  --bg-color:#131722;
+  --main-font:'Montserrat+Alternates',sans-serif;
+  --light-bg:#24baef;
+  --font-color:#fff
+  
+}
+
+body{
+  background-color: var(--bg-color);
+  font-family: var(--main-font);
+  color: var(--font-color);
+}
+a{
+  color: var(--font-color);
+  text-decoration: none;
+}
+.vote{
+  background-color: var(--light-bg);
+}
+.brdr
+{
+  height: 1px;
+  background-color: var(--light-bg);
+}
+.my-input{
+  background-color: transparent;
+  border: solid 1px #a8a8a83d;
+  color: #fff;
+}
+.cursor-pointer{
+  cursor: pointer;
+}
+.offline{
+  background-color: var(--bg-color);
+  box-shadow: 10px 10px 10px #ccc;
+  padding: 20px;
+  position: fixed;
+  left: 50px;
+  bottom: 50px;
+  z-index: 9999;
+}
+
+.footer {
+  background: var(--black);
+  text-align: center;
+}       
+.footer .share{
+  padding: .5rem 0 ;
+}
+.footer .share a{
+height: 5rem;
+width: 5rem;
+line-height: 5rem;
+font-size: 2rem;
+color: #fff;
+border: var(--border);
+margin: .5rem;
+border-radius: 50%;
+}
+.footer .share a:hover{
+background-color: #010103;
+color:#d3ad7f;
+border-radius: 0;
+}
+.footer .credit {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 2rem;
+  gap: 1rem;
+}
+.footer .credit {
+  display: flex;
+  justify-content: center;
+  color: #fff;
+  font-size: 1.1rem;
+}
+.footer .credit span{
+  color: #d3ad7f;
+}
+.footer .credit span:hover{
+  font-size: large;
+  cursor: pointer;
+}
+.inputText{
+  outline: none;
+  border: 1px solid var(--light-bg);
+  border-radius: 2rem 0 0 2rem ;
+  padding: 0.3rem 1rem;
+  font-size: 1rem;
+  color: #fff;
+  background-color: var(--bg-color);
+  box-shadow: inset 0 5px 10px var(--bg-color);
+}
+.inputText::placeholder{
+color: #fff;
+}
+.search-btn button {
+  background-color: var(--light-bg);
+  box-shadow: inset 0 5px 10px var(--bg-color);
+  padding: 0.3rem 0.5rem;
+  border-radius: 0 2rem 2rem 0;
+  color: #fff;
+  font-size: 1rem;
+  outline: none;
+  border:1px solid var(--light-bg);
+}
